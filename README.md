@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Parsa2005
+- 👀 I’m interested in basketball , cars , biking , playing Piano
+- 🌱 I’m currently learning django and i know python , html , css
+- 💞️ I’m looking to collaborate to make a website
+- 📫 How to reach me !
